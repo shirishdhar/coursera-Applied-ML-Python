@@ -1,1 +1,1 @@
-# Coursera course on 'Applied Machine Learning with Python'
+# Coursera course - 'Applied Machine Learning with Python'
