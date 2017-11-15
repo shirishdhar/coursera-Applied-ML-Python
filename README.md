@@ -1,1 +1,1 @@
-# coursera-Applied-ML-Python
+# Coursera course - 'Applied Machine Learning with Python'
